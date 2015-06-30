@@ -4,7 +4,7 @@ Company Name:
 --
 
 Key Hypotheses:
-1. Now I'm changing the hypothesis. How does it look now?
+1. Trying one more time. This is now different.
 
 --
 
