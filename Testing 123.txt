@@ -4,7 +4,7 @@ Company Name:
 --
 
 Key Hypotheses:
-1. Trying one more time. This is now different.
+1. Trying one time. This is now different.
 
 --
 
@@ -22,4 +22,8 @@ Team Needs:
 
 
 --
+
+KPI:
+
+ARR = $40,000
 
