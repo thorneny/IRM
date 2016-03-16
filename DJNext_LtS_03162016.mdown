@@ -1,0 +1,48 @@
+#  Dow Jones Next - Letter to Shareholders - 16-Mar-2016
+### Mission / Central Hypothesis
+
+
+##  Highlights
+-  The Prehype team is pushing forward as if everything around the formation of the company is done. That process, in turn, is also moving along well.
+-  Scott Austin is very intrigued about joining the team, and we have a plan for how to make that a compelling option for him. Notably, he is also "bought in" to the idea that approaching the challenge of evaluating and analyzing private companies through the people lens is a differentiating one.
+-  Last Friday, we challenged each other to a contest this week: first person to sell a bit of analysis for $75 or to write a piece of content that was read by >500 people win. We basically tied. Stuart sold a report about with which other investors Prehype typically invests in startups for $75. Nicholas wrote an analysis of why the team at Cruise is worth more than the $1.0bn that GM paid for them, which has been viewed +650 times on Medium after being retweeted by the founder of Twitch who is now a partner at Y-Combinator.
+
+
+##  KPI
+
+
+##  Priorities
+-  **Data:**
+++  Get DJ data (i.e. Venturesource / Companies & Executives): How is data structured? How will it be provided? Who is main point of contact
+++  External data: Get introduction to AngelList and Crunchbase
+-  **Personnel:** Build recruiting funnel for research analyst(s) and data scientists
+-  **Product:**
+++  Write ad hoc analysis articles on interesting topics that play on our theses and test ability to sell them / get people to read them
+++  Get a domain set up for beta / stealth testing, publishing content, etc.
+-  **Internal:** Set up reporting system (this is an output of it!), so that we can scalably keep everyone updated.
+
+
+##  Product Releases
+
+
+##  Notable New Customers
+
+
+##  Help
+@EdwardRoussel: We are working on exactly what we think we need from DJ from a data perspective. When the moment comes, if we could ask for your support in making sure that we get that request to the right people, that would be awesome.
+@All:  Any ideas on what name / domain we should use in stealth mode?
+
+
+##  Team / Hiring
+
+
+##  Challenges
+-  The primary challenge we're aiming to solve is that of what data scientists we can hire to help investigate all of our data.
+
+
+##  Financing
+>  $1,850,000
+>> We expect to close on Dow Jones' seed investment in the coming month
+
+
+##  Press
